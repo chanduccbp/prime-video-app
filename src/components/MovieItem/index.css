@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.popup-content {
+  background-color: #ffffff;
+  padding: 15px;
+}
+
+.close-button {
+  background-color: transparent;
+  border-style: none;
+  align-self: flex-end;
+}
+
+.modal-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
